@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GridViewDemo</string>
+    <string name="grid_img_description">Grid Image Description</string>
+    <string name="grid_title_default">Android</string>
+</resources>
